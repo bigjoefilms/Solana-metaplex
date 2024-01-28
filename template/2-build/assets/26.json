@@ -1,0 +1,38 @@
+{
+  "name": "SuperteamMg #26",
+  "symbol": "PS",
+  "description": "Dev task learn",
+  "seller_fee_basis_points": 100,
+  "image": "26.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "26.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
