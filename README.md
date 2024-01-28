@@ -13,4 +13,4 @@ Candy machine ID: 5j4KxwdeGebt2yqQb44Q9aH34R4zDNruTwCUd3gaFoRB
 
 Here is the UI to mint
 
-heads-nft-ui.vercel.app
+heads-nft-bm4sahfmp-bigjoefilms.vercel.app
